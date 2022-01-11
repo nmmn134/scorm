@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="7CDAA893-9DA5-4A72-B254-688353535188" version="0" availableOffline="1">
+<presentation guid="B92B3A42-1391-4E68-B5B5-79670C4E5CF4" version="0" availableOffline="1">
 	<info>
 		<title>Tạo bài giảng điện tử e-learning</title>
 		<description/>
 	</info>
-	<files index="id7" thumbnail="id62" totalSize="10580289">
+	<files index="id7" thumbnail="id61" totalSize="10454122">
 		<file id="id4">lms.js</file>
 		<file id="id5">data/goodbye.html</file>
 		<file id="id7">index.html</file>
@@ -19,17 +19,17 @@
 		<file id="id16">data/quiz1/fonts/fnt0.woff</file>
 		<file id="id17">data/quiz1/fonts/fnt1.woff</file>
 		<file id="id18">data/quiz1/fonts/fnt2.woff</file>
-		<file id="id19">data/quiz1/images/quiz_bg_0.jpg</file>
-		<file id="id20">data/thmb4.png</file>
-		<file id="id21">data/quiz2.js</file>
-		<file id="id22">data/quiz2/fonts/fnt0.woff</file>
-		<file id="id23">data/quiz2/fonts/fnt1.woff</file>
-		<file id="id24">data/quiz2/fonts/fnt2.woff</file>
-		<file id="id25">data/quiz2/fonts/fnt3.woff</file>
-		<file id="id26">data/quiz2/images/img-8fd4599b148c8247cf6e5de819f6ea2e0797d3f4.jpg</file>
-		<file id="id27">data/quiz2/images/img-ee23b36ce5a413996ddde9b92793b45ab0f868fc.jpg</file>
-		<file id="id28">data/quiz2/images/img-efba4b375ba562dbb831801b300532287e19039a.jpg</file>
-		<file id="id29">data/quiz2/images/quiz_bg_0.jpg</file>
+		<file id="id19">data/quiz1/fonts/fnt3.woff</file>
+		<file id="id20">data/quiz1/images/img-8fd4599b148c8247cf6e5de819f6ea2e0797d3f4.jpg</file>
+		<file id="id21">data/quiz1/images/img-ee23b36ce5a413996ddde9b92793b45ab0f868fc.jpg</file>
+		<file id="id22">data/quiz1/images/img-efba4b375ba562dbb831801b300532287e19039a.jpg</file>
+		<file id="id23">data/quiz1/images/quiz_bg_0.jpg</file>
+		<file id="id24">data/thmb4.png</file>
+		<file id="id25">data/slide4.js</file>
+		<file id="id26">data/slide4.css</file>
+		<file id="id27">data/thmb5.png</file>
+		<file id="id28">data/slide5.js</file>
+		<file id="id29">data/slide5.css</file>
 		<file id="id30">data/sound1.mp3</file>
 		<file id="id31">data/video1.mp4</file>
 		<file id="id32">data/quizplayer.js</file>
@@ -55,9 +55,8 @@
 		<file id="id56">data/img3.png</file>
 		<file id="id57">data/img4.png</file>
 		<file id="id58">data/img5.png</file>
-		<file id="id59">data/img6.png</file>
-		<file id="id60">data/img7.jpg</file>
-		<file id="id61">data/photo1.png</file>
-		<file id="id62">data/ismplayer/preview.png</file>
+		<file id="id59">data/img6.jpg</file>
+		<file id="id60">data/photo1.png</file>
+		<file id="id61">data/ismplayer/preview.png</file>
 	</files>
 </presentation>
